@@ -1,0 +1,25 @@
+body{
+    background-image:url("kuruminha.png");
+    background-repeat: no-repeat;
+    background-position-y:-100px;
+    object-fit: cover;
+    height: 250px;
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+}
+
+.line1{
+    margin-inline-start:60px;
+    margin-top: 40px; 
+    font-size: 20px;
+}
+
+
+.line2{
+    margin-left: 180px;
+    margin-top: 80px;
+    font-size: 18px;
+}
